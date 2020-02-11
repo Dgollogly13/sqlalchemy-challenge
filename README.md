@@ -1,4 +1,4 @@
-# Sql Alchemy Challenge
+# SQL Alchemy Challenge
 
 The goal of this challenge... 
 
