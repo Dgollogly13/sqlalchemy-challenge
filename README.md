@@ -1,6 +1,6 @@
 # SQL Alchemy Challenge
 
-The goal of this challenge... 
+The goal of this challenge 
 
 ## Getting Started 
 
@@ -16,7 +16,12 @@ I am running this code out of...
 
 ### Built With
 
-
+* Numpy 
+* Pandas
+* Datetime 
+* Sqlalchemy
+* Flask
+* Matplotlib
 
 ### Authors
 
