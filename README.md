@@ -1,6 +1,6 @@
 # SQL Alchemy Challenge
 
-The goal of this challenge 
+The goal of this challenge was to master advanced data storage and retrieval using a variety of programming language libraries and applicaitons.  
 
 ## Getting Started 
 
