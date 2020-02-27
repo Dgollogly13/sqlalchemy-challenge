@@ -2,10 +2,6 @@
 
 The goal of this challenge was to master advanced data storage and retrieval using a variety of programming language libraries and applications. I was tasked with querying the necessary data, transforming it into a digestible format, and then creating a flask server where the transformed data would be called and displayed for the user. 
 
-## Getting Started 
-
-I am running this code out of my anaconda environment with Juypter Notebooks and Visual Studio Code. You will need to download the proper dependencies and applications if you would like to run this code with your machine. 
-
 ### Analysis and Coding 
 
 I started this challenge by connecting to my sqlite database in order to pull the necessary information for transforming. I queried the data and plotted it with matplotlib to get a better picture of what the data was describing. 
